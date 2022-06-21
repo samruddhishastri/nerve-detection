@@ -1,4 +1,4 @@
-# Nerve detection
+# Nerve detection in Brachial Plexus Ultrasound Videos
 
 ## Installation
 
